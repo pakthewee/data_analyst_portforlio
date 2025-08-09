@@ -49,5 +49,5 @@ Skills: Data cleaning, exploratory data analysis (EDA), statistical modeling, da
 
 
 ## Table of Contents
-website category segmentation :
+website category segmentation :  RT_Segmentation_05_Validation_Report.ipynb
 
