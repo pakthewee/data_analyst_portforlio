@@ -46,3 +46,7 @@ Languages: Python, SQL, PySpark
 Tools: Databricks, Excel, Looker
 
 Skills: Data cleaning, exploratory data analysis (EDA), statistical modeling, data visualization, campaign analytics
+
+
+## Table of Contents
+  
