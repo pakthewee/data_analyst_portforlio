@@ -43,6 +43,6 @@ Machine learning for finance & business analytics
 ## Tech & Tools
 Languages: Python, SQL, PySpark
 
-Tools: Databricks, Git/GitHub, Power BI, Excel VBA
+Tools: Databricks, Excel, Looker
 
 Skills: Data cleaning, exploratory data analysis (EDA), statistical modeling, data visualization, campaign analytics
